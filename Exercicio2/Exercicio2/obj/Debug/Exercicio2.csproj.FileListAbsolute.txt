@@ -1,0 +1,8 @@
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Exercicio POO - site\Utilizando herança\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe.config
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Exercicio POO - site\Utilizando herança\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Exercicio POO - site\Utilizando herança\Exercicio2\Exercicio2\bin\Debug\Exercicio2.pdb
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Exercicio POO - site\Utilizando herança\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.AssemblyReference.cache
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Exercicio POO - site\Utilizando herança\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.SuggestedBindingRedirects.cache
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Exercicio POO - site\Utilizando herança\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Exercicio POO - site\Utilizando herança\Exercicio2\Exercicio2\obj\Debug\Exercicio2.exe
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Exercicio POO - site\Utilizando herança\Exercicio2\Exercicio2\obj\Debug\Exercicio2.pdb
